@@ -1,3 +1,6 @@
+//harsh
+//p
+//s
 A person has a genetic deficiency or disorder due to some mutation or deletion of a particular amino acid in a gene sequence.
 Example ADA deficiency in a person. This enzyme is crucial for the immune system to function.The disorder is caused due to the 
 deletion of the gene for adenosine deaminase. In some children ADA deficiency can be cured by bone marrow transplantation; in others 
