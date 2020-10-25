@@ -34,7 +34,7 @@ int main()
 	
 	//insert elements
 	codon_amino["UUU"]="Phe";
-	codon_amino[""]
+	codon_amino["AAU"]="any"
 	
 	//print map contents
 	for(auto x:codon_amino)
