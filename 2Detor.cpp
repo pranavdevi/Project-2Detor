@@ -1,4 +1,4 @@
-//2Detor
+//2Detor c++ project
 #include<bits/stdc++.h> 
 using namespace std;
 int countAcid(string aminoSeq) //function to count no of space-sep words in string
