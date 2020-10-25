@@ -1,0 +1,26 @@
+A person has a genetic deficiency or disorder due to some mutation or deletion of a particular amino acid in a gene sequence.
+Example ADA deficiency in a person. This enzyme is crucial for the immune system to function.The disorder is caused due to the 
+deletion of the gene for adenosine deaminase. In some children ADA deficiency can be cured by bone marrow transplantation; in others 
+it can be treated by enzyme replacement therapy, in which functional ADA is given to the patient by injection. But the problem with 
+both of these approaches that they are not completely curative. As a first step towards gene therapy,lymphocytes from the blood of 
+the patient are grown in a culture outside the body. A functional ADA cDNA (using a retroviral vector) is then introduced into these 
+lymphocytes, which are subsequently returned to the patient. However, as these cells are not immortal, the patient requires
+periodic infusion of such genetically engineered lymphocytes. However, if the gene isolate from marrow cells producing ADA is 
+introduced into cells at early embryonic stages, it could be a permanent cure. 
+
+A single stranded DNA or RNA, tagged with a radioactive molecule(probe) is allowed to hybridise to its complementary DNA in a clone 
+of cells followed by detection using autoradiography. The clone having the mutated gene will hence not appear on the photographic 
+film, because the probe will not have complementarity with the mutated gene.
+
+Therefore, the program will contain the codon-amino acid table. When the 
+
+Input:
+	Patient's gene sequence (at embryonic stage)
+Process: 
+	comparing patient's gene sequence against program-generated template sequence 	
+	==> Mutation is present if Sp!=St
+	
+Output:
+	==>Mutated gene (substring)
+	==>pos of mutated gene
+	==>Confirmation of disorder.
